@@ -14,7 +14,7 @@
 <div class="container">
 
 <h1 align="center">DATA</h1>
-<div ng-app="insert" nng-controller="controller">
+<div ng-app="insert" ng-controller="controller">
 <label>Name</label>
 <input type="text" name="name" ng-model="name" class="form-control">
 <br>
@@ -29,6 +29,7 @@
 </div>
 
 <div ng-view></div> 
+<script src="app/route.js"></script>
 
 
 
