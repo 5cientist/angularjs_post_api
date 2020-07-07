@@ -24,7 +24,7 @@
 <label>age</label>
 <input type="text" name="age" ng-model="age" class="form-control">
 <br>
-<input type="submit" name="insert" class="btn btn-success" ng-click="inser()" value="Insert">
+<input type="submit" name="insert" class="btn btn-success" ng-click="insert()" value="Insert">
 </div>
 </div>
 
